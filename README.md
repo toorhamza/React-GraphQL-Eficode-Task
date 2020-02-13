@@ -1,6 +1,8 @@
 This project was created as an assignment for eficode Summer Internship. 
 
-The live version can be found online here. 
+# Live Preview
+The live version can be found online here.
+http://toorhamza.com/eficode-summer-task-2020/
 
 # Details
 
